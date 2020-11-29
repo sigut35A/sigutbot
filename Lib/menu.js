@@ -121,14 +121,14 @@ Contoh : !pasangan covad & covid
 
 ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
 FOLLOW INSTAGRAM SAYA
-${instagram}
+${https://instagram.com/sigitdwinugroho30?igshid=jowox03z97gg}
 
-• TELEGRAM : ${telegram}
-• Youtube : R E U Z
-• WA : 081271699856
+• TELEGRAM : ${sh}
+• Youtube : SAE esport
+• WA : 081575812325
 • Pasang Iklan? Chat Whatsapp.
 
-📺 *IKLAN* : *YOUTUBE REUZ*
+📺 *IKLAN* : *YOUTUBE SAE esport*
 🏚SELALU GUNAKAN MASKER SAAT KELUAR!🏚
 🏚SEMOGA SEHAT SELALU!🏚
 `
