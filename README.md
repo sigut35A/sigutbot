@@ -1,4 +1,4 @@
-## sigut354
+## sigut35A
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -17,7 +17,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/sigut35A/sigutbot
-> cd reuzsc
+> cd sigutbot
 > bash install.sh
 > node index.js
 ```
