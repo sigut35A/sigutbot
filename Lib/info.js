@@ -10,14 +10,14 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 💵GUNAKAN COMMAND !donasi untuk berdonasi💵
 
 INFO BOT! :
-🔱 *AUTHOR*: REUZ
-🔱 *GITHUB*: https://github.com/benisadewa/reuzsc
+🔱 *AUTHOR*: SIGUT
+🔱 *GITHUB*: https://github.com/sigut35A/sigutbot
 🔱 *INSTAGRAM*: ${instagram}
 🔱 *YOUTUBE*: ${youtube}
 🔱 *TELEGRAM* : ${telegram}
-🔱 *WHATSAPP* : 081271699856
+🔱 *WHATSAPP* : 081575812325
 
-🔱 *SCRIPT ORIGINAL BY*: https://github.com/fdciabdul
+🔱 *SCRIPT ORIGINAL BY*: https://github.com/sigut35A/sigutbot
 
 INFO LAIN! :
 
@@ -28,7 +28,7 @@ THANKS TO:
 -ALLAH SWT
 -MUHAMMAD SAW
 -AYAH & IBU
--ABDUL MUTTAQIN(FDCIABDUL)
+
 
 
 bot aktif selama : ${kapanbotaktif}
