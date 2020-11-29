@@ -96,7 +96,7 @@ Contoh: !twt https://twitter.com/linkamu
 
 _${BotName}_ akan mengirimkanmu video dari link tiktok yang kamu kirimkan
 
-🖥*EDUKASI*🖥
+👩‍🏫*EDUKASI*👩‍🏫
 
 🐼 _*!wikia <yang kamu cari>*_
 _${BotName}_🍄akan mencarikan yang kamu mau di wikipedia
@@ -124,11 +124,11 @@ FOLLOW INSTAGRAM SAYA
 ${instagram}
 
 • TELEGRAM : ${telegram}
-• Youtube : R E U Z
-• WA : 081271699856
+• Youtube : SAE esport
+• WA : 081575812325
 • Pasang Iklan? Chat Whatsapp.
 
-📺 *IKLAN* : *YOUTUBE REUZ*
+📺 *IKLAN* : *SAE E-sport*
 🏚SELALU GUNAKAN MASKER SAAT KELUAR!🏚
 🏚SEMOGA SEHAT SELALU!🏚
 `
