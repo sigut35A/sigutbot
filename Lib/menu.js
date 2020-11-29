@@ -121,9 +121,9 @@ Contoh : !pasangan covad & covid
 
 ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
 FOLLOW INSTAGRAM SAYA
-${https://instagram.com/sigitdwinugroho30?igshid=jowox03z97gg}
+${instagram}
 
-• TELEGRAM : ${sh}
+• TELEGRAM : ${telegram}
 • Youtube : SAE esport
 • WA : 081575812325
 • Pasang Iklan? Chat Whatsapp.
